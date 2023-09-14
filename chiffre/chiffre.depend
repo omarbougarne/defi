@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694705780 source:c:\users\youco\desktop\c\chiffre\main.c
+	<stdio.h>
+	<stdlib.h>
+
